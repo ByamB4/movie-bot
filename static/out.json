@@ -1,0 +1,884 @@
+[
+  {
+    "content": "The movie is set in a dystopian future where technology has",
+    "end": 3720,
+    "index": 1,
+    "start": 0
+  },
+  {
+    "content": "become indispensable in performing just about any task. At the start,",
+    "end": 7380,
+    "index": 2,
+    "start": 3720
+  },
+  {
+    "content": "a man named Stripe dreams about a beautiful woman. Soon, he wakes up and it is revealed",
+    "end": 12180,
+    "index": 3,
+    "start": 7380
+  },
+  {
+    "content": "that Stripe is a new military recruit. He is set to go on a mission with his squad,",
+    "end": 16260,
+    "index": 4,
+    "start": 12180
+  },
+  {
+    "content": "which includes a female soldier named Hunter Raiman and an arrogant soldier; Leonard.",
+    "end": 20940,
+    "index": 5,
+    "start": 16260
+  },
+  {
+    "content": "Stripe's team has been tasked with checking out an infestation of 'roaches' in a nearby village.",
+    "end": 27660,
+    "index": 6,
+    "start": 23340
+  },
+  {
+    "content": "Roaches are pale, snarling, humanoid monsters with sharp teeth. Apparently,",
+    "end": 32580,
+    "index": 7,
+    "start": 27660
+  },
+  {
+    "content": "these creatures are vicious and they prey on innocent people. It is Stripe's first field day",
+    "end": 36720,
+    "index": 8,
+    "start": 32580
+  },
+  {
+    "content": "after his training so he is nervous and scared. But when Raiman encourages him, he gets riled up.",
+    "end": 41760,
+    "index": 9,
+    "start": 36720
+  },
+  {
+    "content": "Shortly after, the squad arrives at a village, which has just been looted by a",
+    "end": 45600,
+    "index": 10,
+    "start": 41760
+  },
+  {
+    "content": "bunch of roaches. The terrified villagers try to explain the situation, but they speak in a",
+    "end": 50100,
+    "index": 11,
+    "start": 45600
+  },
+  {
+    "content": "different language, which the soldiers can't comprehend. So, the group's commander; Medina,",
+    "end": 54480,
+    "index": 12,
+    "start": 50100
+  },
+  {
+    "content": "takes out a translator and starts interrogating the villagers. She eventually learns that the",
+    "end": 58860,
+    "index": 13,
+    "start": 54480
+  },
+  {
+    "content": "roaches escaped in the direction of someone named Parn Heidekker. Parn is a solitary religious freak",
+    "end": 64319,
+    "index": 14,
+    "start": 58860
+  },
+  {
+    "content": "who is apparently suffering from mental health issues. The locals claim that he let roaches",
+    "end": 68400,
+    "index": 15,
+    "start": 64319
+  },
+  {
+    "content": "cross his land and even left out food for them. In the meantime, Stripe individually speaks",
+    "end": 73200,
+    "index": 16,
+    "start": 68400
+  },
+  {
+    "content": "to the villagers and promises to one of them that he will try his best to keep them safe.",
+    "end": 77700,
+    "index": 17,
+    "start": 73200
+  },
+  {
+    "content": "Suspecting that Parn is helping the roaches,",
+    "end": 79920,
+    "index": 18,
+    "start": 77700
+  },
+  {
+    "content": "the soldiers head out for his compound. It is then revealed that each soldier",
+    "end": 83520,
+    "index": 19,
+    "start": 79920
+  },
+  {
+    "content": "in the military has a neural implant called MASS embedded in their brain which provides",
+    "end": 88500,
+    "index": 20,
+    "start": 83520
+  },
+  {
+    "content": "data via AR or 'Augmented Reality'. MASS also helps the military in strategic operations.",
+    "end": 93840,
+    "index": 21,
+    "start": 88500
+  },
+  {
+    "content": "Soon, the squad reaches Parn's large compound and plans their raid using holographic maps and",
+    "end": 99360,
+    "index": 22,
+    "start": 93840
+  },
+  {
+    "content": "data displays, which each soldier has access to thanks to the implants in their brains. Medina,",
+    "end": 104160,
+    "index": 23,
+    "start": 99360
+  },
+  {
+    "content": "Stripe, Raiman and Leonard are in charge of talking to Parn and searching the main house",
+    "end": 108840,
+    "index": 24,
+    "start": 104160
+  },
+  {
+    "content": "while the others are assigned with raiding the nearby outer buildings.",
+    "end": 112020,
+    "index": 25,
+    "start": 108840
+  },
+  {
+    "content": "Executing their mission, Medina knocks on the door and demands to inspect his home. A few",
+    "end": 116760,
+    "index": 26,
+    "start": 112020
+  },
+  {
+    "content": "seconds later, a scared Parn answers and it appears as if he is the only one home.",
+    "end": 120960,
+    "index": 27,
+    "start": 116760
+  },
+  {
+    "content": "Although reluctant at first, he lets the soldiers inside his house. Raiman and Stripe quickly go",
+    "end": 125940,
+    "index": 28,
+    "start": 120960
+  },
+  {
+    "content": "about searching upstairs while Medina and Leonard interrogate Parn. After talking to him for a bit,",
+    "end": 131039,
+    "index": 29,
+    "start": 125940
+  },
+  {
+    "content": "Medina notices some religious symbols decorating the walls. This makes her realize that Parn is",
+    "end": 136140,
+    "index": 30,
+    "start": 131039
+  },
+  {
+    "content": "simply looking out for the roaches because of some religious beliefs that all living",
+    "end": 140280,
+    "index": 31,
+    "start": 136140
+  },
+  {
+    "content": "species must be protected. She attempts to disabuse him of this notion by discussing the",
+    "end": 144840,
+    "index": 32,
+    "start": 140280
+  },
+  {
+    "content": "supposed sickness in the roaches' blood, which doesn't care about ideals of common humanity.",
+    "end": 149460,
+    "index": 33,
+    "start": 144840
+  },
+  {
+    "content": "She also tells him that the roaches need to be exterminated if humanity is going to survive.",
+    "end": 154260,
+    "index": 34,
+    "start": 149460
+  },
+  {
+    "content": "Meanwhile, Stripe and Raiman search the room upstairs to check for any roaches. They come",
+    "end": 161820,
+    "index": 35,
+    "start": 157440
+  },
+  {
+    "content": "across a hidden room and decide to split up. In one room, Stripe sees a blanket with multiple",
+    "end": 166260,
+    "index": 36,
+    "start": 161820
+  },
+  {
+    "content": "shadows behind it. When he lifts the blanket, he finds three terrifying roaches there. The",
+    "end": 171060,
+    "index": 37,
+    "start": 166260
+  },
+  {
+    "content": "roaches appear to be pale humanoids with sharp teeth, flattened noses and discolored eyes. One",
+    "end": 177480,
+    "index": 38,
+    "start": 171060
+  },
+  {
+    "content": "of them holds up a mysterious device with a green light. Stripe immediately shoots one in the head",
+    "end": 181860,
+    "index": 39,
+    "start": 177480
+  },
+  {
+    "content": "and starts tussling with another. As the creature attempts to bite him, he draws out his knife and",
+    "end": 186240,
+    "index": 40,
+    "start": 181860
+  },
+  {
+    "content": "stabs the roach in the chest. Even after it is dead, a disturbed Stripe continues stabbing it.",
+    "end": 191700,
+    "index": 41,
+    "start": 186240
+  },
+  {
+    "content": "After the encounter, he examines the mysterious green light device and experiences a flash",
+    "end": 196080,
+    "index": 42,
+    "start": 191700
+  },
+  {
+    "content": "which causes a slight strain in his eyes. As Raiman rushes to help him, she is knocked down",
+    "end": 201060,
+    "index": 43,
+    "start": 196080
+  },
+  {
+    "content": "the stairs by an escaping roach. At the same time, Parn attempts to stab Medina,",
+    "end": 205380,
+    "index": 44,
+    "start": 201060
+  },
+  {
+    "content": "but he is easily subdued and taken into custody. Before heading back to their base,",
+    "end": 209340,
+    "index": 45,
+    "start": 205380
+  },
+  {
+    "content": "Medina decides to set the compound on fire, which also destroys the mysterious green light device.",
+    "end": 214320,
+    "index": 46,
+    "start": 209340
+  },
+  {
+    "content": "The next day, Raiman is seen practicing her sharpshooting against roach targets, so that",
+    "end": 219120,
+    "index": 47,
+    "start": 214320
+  },
+  {
+    "content": "none get away the next time. It is evident that she is envious of a newbie like Stripe killing two",
+    "end": 223920,
+    "index": 48,
+    "start": 219120
+  },
+  {
+    "content": "roaches on his first day. Soon, Stripe arrives and joins in on the exercise. He aims at his",
+    "end": 229080,
+    "index": 49,
+    "start": 223920
+  },
+  {
+    "content": "target but suddenly, his neural implant glitches and he ends up missing. This worries Raiman but",
+    "end": 235140,
+    "index": 50,
+    "start": 229080
+  },
+  {
+    "content": "Stripe insists that he is fine. However, during push up exercises, his neural implant continues",
+    "end": 240360,
+    "index": 51,
+    "start": 235140
+  },
+  {
+    "content": "to glitch which affects his performance. Medina notices this and orders him to see a doctor.",
+    "end": 244560,
+    "index": 52,
+    "start": 240360
+  },
+  {
+    "content": "Resolving to get to the bottom of the issue, Stripe follows his commander's orders and goes",
+    "end": 249060,
+    "index": 53,
+    "start": 244560
+  },
+  {
+    "content": "to the military hospital. The doctor runs a diagnostic test on Stripe's implant but",
+    "end": 253200,
+    "index": 54,
+    "start": 249060
+  },
+  {
+    "content": "fails to find anything wrong. After a while, Stripe tries to open up about the green device",
+    "end": 257579,
+    "index": 55,
+    "start": 253200
+  },
+  {
+    "content": "which he found at Parn's compound, but the doctor doesn't understand anything,",
+    "end": 261239,
+    "index": 56,
+    "start": 257579
+  },
+  {
+    "content": "and simply refers him to a person called Arquette. It turns out Arquette is a",
+    "end": 265440,
+    "index": 57,
+    "start": 261240
+  },
+  {
+    "content": "resident military psychologist. He suspects that Stripe's problem may have something to",
+    "end": 269520,
+    "index": 58,
+    "start": 265440
+  },
+  {
+    "content": "do with the fact that he killed two roaches brutally. He also claims that a few days of",
+    "end": 273600,
+    "index": 59,
+    "start": 269520
+  },
+  {
+    "content": "proper rest should resolve everything. Before parting ways, Arquette promises to get Stripe",
+    "end": 278100,
+    "index": 60,
+    "start": 273600
+  },
+  {
+    "content": "an extremely good sleep by programming something special for his dreams that night.",
+    "end": 282240,
+    "index": 61,
+    "start": 278100
+  },
+  {
+    "content": "This dream involves the return of Stripe's recurring fantasy of the beautiful woman",
+    "end": 286740,
+    "index": 62,
+    "start": 282240
+  },
+  {
+    "content": "surrounded by flowing drapes. This time, though, it's more intense. The lights are",
+    "end": 291180,
+    "index": 63,
+    "start": 286740
+  },
+  {
+    "content": "red and she asks him to have coetus with her. Stripe gives in and the two have a",
+    "end": 294960,
+    "index": 64,
+    "start": 291180
+  },
+  {
+    "content": "wonderful time but just then, the glitch turns up again, forcing him to wake up.",
+    "end": 299220,
+    "index": 65,
+    "start": 294960
+  },
+  {
+    "content": "He sits up in his bunk and looks over his comrades, who are all peacefully sleeping.",
+    "end": 303780,
+    "index": 66,
+    "start": 299220
+  },
+  {
+    "content": "The next day, Stripe, Raiman and Medina are back in the village helping out with food",
+    "end": 307800,
+    "index": 67,
+    "start": 303780
+  },
+  {
+    "content": "and supplies. There, Medina informs the group that a piece of information was extracted on",
+    "end": 311880,
+    "index": 68,
+    "start": 307800
+  },
+  {
+    "content": "the roaches' whereabouts from Parn. Hence, the squad heads out to the said location to perform",
+    "end": 316440,
+    "index": 69,
+    "start": 311880
+  },
+  {
+    "content": "a recon. After a while, the trio arrives at an abandoned area and plans their recon with",
+    "end": 321420,
+    "index": 70,
+    "start": 316440
+  },
+  {
+    "content": "the help of a drone and their MASS implants. As the group continues discussing, Stripe's implant",
+    "end": 326220,
+    "index": 71,
+    "start": 321420
+  },
+  {
+    "content": "glitches out again and malfunctions. Suddenly, he realizes that he can smell the grass which he",
+    "end": 331980,
+    "index": 72,
+    "start": 326220
+  },
+  {
+    "content": "could not before when the implant was working. He tries to explain it to Raiman but she simply",
+    "end": 336420,
+    "index": 73,
+    "start": 331980
+  },
+  {
+    "content": "ignores him. All of a sudden, shots are fired and Medina is struck in the head, instantly killing",
+    "end": 341400,
+    "index": 74,
+    "start": 336420
+  },
+  {
+    "content": "her. Despite the setback, Raiman somehow retrieves the drone from the crossfire and uses it to locate",
+    "end": 346260,
+    "index": 75,
+    "start": 341400
+  },
+  {
+    "content": "the shooter. It turns out that the roaches are holed up in a room with a stolen rifle.",
+    "end": 350640,
+    "index": 76,
+    "start": 346260
+  },
+  {
+    "content": "Stripe seems distraught but Raiman decides to make their way into the compound providing cover fire",
+    "end": 355380,
+    "index": 77,
+    "start": 350640
+  },
+  {
+    "content": "for each other. Stripe, who is still confused and dizzy after the implant stopped working,",
+    "end": 359880,
+    "index": 78,
+    "start": 355380
+  },
+  {
+    "content": "reluctantly agrees and follows his comrade.",
+    "end": 362520,
+    "index": 79,
+    "start": 359880
+  },
+  {
+    "content": "There, the two find a kind of makeshift electronic workshop, probably the source of that green-light",
+    "end": 367680,
+    "index": 80,
+    "start": 362520
+  },
+  {
+    "content": "device from earlier. Shortly after, Stripe finds something even more surprising. He",
+    "end": 372240,
+    "index": 81,
+    "start": 367680
+  },
+  {
+    "content": "sees a normal-looking woman hiding out in one of the rooms, begging for her life. She doesn't",
+    "end": 376920,
+    "index": 82,
+    "start": 372240
+  },
+  {
+    "content": "look like a roach, so Stripe tells her to get out of there, promising not to hurt her. She",
+    "end": 381360,
+    "index": 83,
+    "start": 376920
+  },
+  {
+    "content": "slowly backs into the hallway, attempting to flee, but shockingly, Raiman shoots her dead.",
+    "end": 386340,
+    "index": 84,
+    "start": 381360
+  },
+  {
+    "content": "This stuns Stripe and he questions why she killed a civilian. But she simply brushes him aside and",
+    "end": 390840,
+    "index": 85,
+    "start": 386340
+  },
+  {
+    "content": "moves forward, going on a killing spree, mowing down all the roaches in the building. Strangely,",
+    "end": 395700,
+    "index": 86,
+    "start": 390840
+  },
+  {
+    "content": "from Stripe's perspective, all the roaches she kills look like normal humans,",
+    "end": 399540,
+    "index": 87,
+    "start": 395700
+  },
+  {
+    "content": "which shocks him even more. Raiman then proceeds to kill a frightened mother-son duo,",
+    "end": 404040,
+    "index": 88,
+    "start": 399540
+  },
+  {
+    "content": "but before she can do so, Stripe intervenes and knocks her unconscious. Sadly,",
+    "end": 408420,
+    "index": 89,
+    "start": 404040
+  },
+  {
+    "content": "he also gets shot in the process. After a while, he staggers to his feet and escapes",
+    "end": 413100,
+    "index": 90,
+    "start": 408420
+  },
+  {
+    "content": "with the mother and son while profusely bleeding. As Stripe leads them to safety,",
+    "end": 416880,
+    "index": 91,
+    "start": 413100
+  },
+  {
+    "content": "Raiman wakes up and witnesses them getting in the military vehicle and fleeing.",
+    "end": 421020,
+    "index": 92,
+    "start": 416880
+  },
+  {
+    "content": "After having been shot in the belly and losing a lot of blood, Stripe passes out behind the wheel,",
+    "end": 425820,
+    "index": 93,
+    "start": 421020
+  },
+  {
+    "content": "making the car come to a complete stop in the middle of the woods. Then, the woman",
+    "end": 429600,
+    "index": 94,
+    "start": 425820
+  },
+  {
+    "content": "drags Stripe into her small hidden cave made up of twigs and dirt and begins to treat his wound. He",
+    "end": 435360,
+    "index": 95,
+    "start": 429600
+  },
+  {
+    "content": "soon regains consciousness and gets startled by the woman applying bandages on his wound.",
+    "end": 439080,
+    "index": 96,
+    "start": 435360
+  },
+  {
+    "content": "The woman introduces herself as Katarina and her son as Alec. She then makes a major revelation.",
+    "end": 444660,
+    "index": 97,
+    "start": 439080
+  },
+  {
+    "content": "It turns out that the Roaches the military has been hunting are just normal beings. It is the",
+    "end": 449400,
+    "index": 98,
+    "start": 444660
+  },
+  {
+    "content": "MASS implant that alters the soldiers' senses, and makes them look like inhumane monsters.",
+    "end": 454020,
+    "index": 99,
+    "start": 449400
+  },
+  {
+    "content": "This is because the higher-class people look upon the 'roaches' as some disease-ridden,",
+    "end": 458580,
+    "index": 100,
+    "start": 454020
+  },
+  {
+    "content": "poor, and unintelligent beings. Katarina also reveals that the green-light device used on",
+    "end": 463380,
+    "index": 101,
+    "start": 458580
+  },
+  {
+    "content": "Stripe was built by her friend to mess with the implants and make the soldiers see the",
+    "end": 467580,
+    "index": 102,
+    "start": 463380
+  },
+  {
+    "content": "roaches as their real selves i.e., humans. The roaches are victims of a genocide justified by",
+    "end": 473340,
+    "index": 103,
+    "start": 467580
+  },
+  {
+    "content": "the military as genetic cleansing. A stunned Stripe asks why the villagers hate the roaches,",
+    "end": 481020,
+    "index": 104,
+    "start": 473340
+  },
+  {
+    "content": "despite them having no such implants. Katarina responds that while the locals",
+    "end": 484800,
+    "index": 105,
+    "start": 481020
+  },
+  {
+    "content": "see the roaches as humans, they still treat them as inferior due to propaganda.",
+    "end": 488520,
+    "index": 106,
+    "start": 484800
+  },
+  {
+    "content": "It turns out 10 years ago, the governments ran DNA checks all around the world which",
+    "end": 493260,
+    "index": 107,
+    "start": 488520
+  },
+  {
+    "content": "changed everything. People with genetic predispositions to illnesses were categorized",
+    "end": 497160,
+    "index": 108,
+    "start": 493260
+  },
+  {
+    "content": "as roaches which was a campaign set in motion by television and internet media.",
+    "end": 501300,
+    "index": 109,
+    "start": 497160
+  },
+  {
+    "content": "Unfortunately, as the two continue talking, Raiman tracks them down. The two 'roaches'",
+    "end": 505740,
+    "index": 110,
+    "start": 501300
+  },
+  {
+    "content": "try running away, but they are immediately shot and killed. This traumatizes Stripe and",
+    "end": 509880,
+    "index": 111,
+    "start": 505740
+  },
+  {
+    "content": "he breathes heavily as Raiman walks up to him while pointing her gun at",
+    "end": 513120,
+    "index": 112,
+    "start": 509880
+  },
+  {
+    "content": "him. She then demands an explanation for his earlier betrayal but Stripe,",
+    "end": 516900,
+    "index": 113,
+    "start": 513120
+  },
+  {
+    "content": "who is still in a state of shock and remorse, keeps murmuring to himself 'None",
+    "end": 521159,
+    "index": 114,
+    "start": 516900
+  },
+  {
+    "content": "of this is true ''. Sadly, this only puzzles Raiman, and she knocks him out with her gun.",
+    "end": 525480,
+    "index": 115,
+    "start": 521159
+  },
+  {
+    "content": "In the next scene, Stripe wakes up in a white-walled cell crouching in the corner. Soon,",
+    "end": 529680,
+    "index": 116,
+    "start": 525480
+  },
+  {
+    "content": "Arquette pays him a visit and offers him coffee. He also apologizes to Stripe for",
+    "end": 533760,
+    "index": 117,
+    "start": 529680
+  },
+  {
+    "content": "failing to catch the glitch in his neural implant sooner. The psychologist then explains that the",
+    "end": 538080,
+    "index": 118,
+    "start": 533760
+  },
+  {
+    "content": "green device he found in the farmhouse was reverse engineered by the roaches from some",
+    "end": 542100,
+    "index": 119,
+    "start": 538080
+  },
+  {
+    "content": "of the military's drone parts. The light in the device transmits a code which is like a",
+    "end": 546000,
+    "index": 120,
+    "start": 542100
+  },
+  {
+    "content": "virus. It burrows into one's MASS and tries to shut it down from within. However, Stripes calls",
+    "end": 551640,
+    "index": 121,
+    "start": 546000
+  },
+  {
+    "content": "everything a lie and insists that the roaches look just like them. Arquette acknowledges it,",
+    "end": 555960,
+    "index": 122,
+    "start": 551640
+  },
+  {
+    "content": "but also claims that the roaches are dangerous. He then adds that humans are genuinely empathetic as",
+    "end": 560760,
+    "index": 123,
+    "start": 555960
+  },
+  {
+    "content": "a species. And this is why creatures like the roaches are taking advantage of them.",
+    "end": 564840,
+    "index": 124,
+    "start": 560760
+  },
+  {
+    "content": "Following this, Arquette gives the example of World War II during which most soldiers",
+    "end": 569460,
+    "index": 125,
+    "start": 564840
+  },
+  {
+    "content": "didn't fire their weapons or if they did, they would just aim over the heads of their enemies",
+    "end": 573720,
+    "index": 126,
+    "start": 569460
+  },
+  {
+    "content": "on purpose. In numbers, only 15 to 20% of the soldiers would pull the trigger. The fate of the",
+    "end": 578880,
+    "index": 127,
+    "start": 573720
+  },
+  {
+    "content": "world was at stake but only a small fraction of them fired. Arquette comments that the war would",
+    "end": 583440,
+    "index": 128,
+    "start": 578880
+  },
+  {
+    "content": "have gotten over a whole lot quicker had the military grown some cojones and did their job.",
+    "end": 587880,
+    "index": 129,
+    "start": 583440
+  },
+  {
+    "content": "Because of this, the officials had to figure out a way to work around humans' natural empathy",
+    "end": 592080,
+    "index": 130,
+    "start": 587880
+  },
+  {
+    "content": "as many soldiers were afraid to kill. Arquette reveals that MASS alters soldiers' senses such",
+    "end": 597240,
+    "index": 131,
+    "start": 592080
+  },
+  {
+    "content": "as smell and sound so that they can kill without hesitation or remorse. He then shows a video",
+    "end": 601740,
+    "index": 132,
+    "start": 597240
+  },
+  {
+    "content": "evidence where Stripe consented to the memory and sense altering effects of the Mass procedure. It",
+    "end": 606600,
+    "index": 133,
+    "start": 601740
+  },
+  {
+    "content": "turns out that after Stripe was implanted with the MASS, all his previous memories were erased.",
+    "end": 611520,
+    "index": 134,
+    "start": 606600
+  },
+  {
+    "content": "Furious, Stripe attempts to attack Arquette, but the latter uses the implant to blind him.",
+    "end": 616200,
+    "index": 135,
+    "start": 611520
+  },
+  {
+    "content": "The cunning psychologist then offers him two choices. Stripe can either allow the military",
+    "end": 620400,
+    "index": 136,
+    "start": 616200
+  },
+  {
+    "content": "to reset his implant, wiping out his memory of the past few days and this very conservation,",
+    "end": 625680,
+    "index": 137,
+    "start": 620400
+  },
+  {
+    "content": "or to be incarcerated forever. Initially, Stripe chooses to be incarcerated.",
+    "end": 630360,
+    "index": 138,
+    "start": 625680
+  },
+  {
+    "content": "To help him reconsider, Arquette plays the footage of the first mission in his mind. However,",
+    "end": 634680,
+    "index": 139,
+    "start": 630360
+  },
+  {
+    "content": "in this footage, Stripe sees the real events that unfolded without the alteration of the",
+    "end": 639120,
+    "index": 140,
+    "start": 634680
+  },
+  {
+    "content": "MASS system. He witnesses himself brutally murdering and stabbing normal people which",
+    "end": 643800,
+    "index": 141,
+    "start": 639120
+  },
+  {
+    "content": "he then saw as roaches. He also learns that the roach that had escaped from Stripe's first",
+    "end": 648360,
+    "index": 142,
+    "start": 643800
+  },
+  {
+    "content": "mission was actually Katarina. As expected, the footage breaks Stripe from the inside,",
+    "end": 653160,
+    "index": 143,
+    "start": 648360
+  },
+  {
+    "content": "and he eventually decides to wipe out his memory of the past few days.",
+    "end": 656520,
+    "index": 144,
+    "start": 653160
+  },
+  {
+    "content": "In the final scene, Stripe, now a decorated officer, leaves his base and approaches",
+    "end": 661380,
+    "index": 145,
+    "start": 656520
+  },
+  {
+    "content": "a house. He has tears streaming down his face as he smiles and watches the",
+    "end": 665400,
+    "index": 146,
+    "start": 661380
+  },
+  {
+    "content": "girl from his dreams walk towards him from the empty and dilapidated house.",
+    "end": 669660,
+    "index": 147,
+    "start": 665400
+  }
+]
