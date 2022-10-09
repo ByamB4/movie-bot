@@ -1,6 +1,15 @@
-from translate.google_translate import GoogleTranslate
-from text.raw_to_plain import RawToPlain
-from configs import get_static_root
+from translate import GoogleTranslate
+from text import SrtToJson, JsonToTranslationText
+from voice import Chimege
+# from video import UpdateAudioSpeed
 
-# RawToPlain(f'{get_static_root()}/demo.srt', f'{get_static_root()}/out.json')
-GoogleTranslate.convert_en_to_mn(f'{get_static_root()}/out.json')
+
+def job() -> None:
+    SrtToJson()
+    JsonToTranslationText()
+    GoogleTranslate()
+    Chimege()
+
+
+if __name__ == '__main__':
+    job()
