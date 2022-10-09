@@ -1,7 +1,7 @@
 from translate import GoogleTranslate
 from text import SrtToJson, JsonToTranslationText
-from voice import Chimege
-# from video import UpdateAudioSpeed
+from voice import Chimege, FixAudio
+from video import VideoCreation
 
 
 def job() -> None:
@@ -9,6 +9,8 @@ def job() -> None:
     JsonToTranslationText()
     GoogleTranslate()
     Chimege()
+    FixAudio()
+    VideoCreation()
 
 
 if __name__ == '__main__':
